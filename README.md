@@ -1,4 +1,4 @@
-**React native course app
+** React native course app
 
 * Auth with Firebase
 * Form
