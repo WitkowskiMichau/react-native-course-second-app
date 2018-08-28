@@ -1,5 +1,5 @@
 import React from 'react';
-import {Text, View, TextInput} from 'react-native';
+import { Text, View, TextInput } from 'react-native';
 
 const Input = ({label, value, onChangeText, placeholder, secureTextEntry}) => {
   const {inputStyle, labelStyle, containerStyle} = styles;
@@ -43,4 +43,4 @@ const styles = {
 };
 
 
-export {Input};
+export { Input };
